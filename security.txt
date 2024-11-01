@@ -1,0 +1,7 @@
+# security.txt
+# Contact information for security issues related to Element Engage plugins
+
+Contact: mailto:mitch@elementengage.com
+Preferred-Languages: en
+Policy: https://elementengage.com/security-policy/
+Expires: 2026-01-01T00:00:00Z

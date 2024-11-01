@@ -1,0 +1,203 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-certain-time-to-show-content.php\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-10-21 14:21-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Me <mitch@elementengage.com.com>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ee-plugin-credits.php:18
+msgid "Plugin Author"
+msgstr "Auteur du plugin"
+
+#: includes/ee-plugin-credits.php:19
+msgid "Plugin by"
+msgstr "Plugin par"
+
+#: includes/ee-plugin-credits.php:19
+msgid "at"
+msgstr "à"
+
+#: includes/ee-plugin-credits.php:20
+msgid "in"
+msgstr "dans"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Contact Me"
+msgstr "Contactez-moi"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Feedback or Questions"
+msgstr "Commentaires ou questions"
+
+#: includes/ee-plugin-credits.php:23
+msgid "Please rate this plugin"
+msgstr "Veuillez évaluer ce plugin"
+
+#: includes/ee-plugin-credits.php:23
+msgid "here"
+msgstr "ici"
+
+#: includes/ee-plugin-credits.php:27
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: includes/ee-plugin-credits.php:33
+msgid "Thanks to"
+msgstr "Remerciements"
+
+#: includes/ee-plugin-instructions.php:6
+msgid ""
+"At a time of your choosing show or hide anything enclosed within these "
+"shortcode tags"
+msgstr ""
+"Au moment de votre choix, vous pouvez afficher ou masquer tout ce qui est "
+"contenu dans ces balises de code court"
+
+#: includes/ee-plugin-instructions.php:7
+msgid "Your content here"
+msgstr "Votre contenu ici"
+
+#: includes/ee-plugin-instructions.php:8
+msgid ""
+"Set the display schedule for each day and time you want your content to "
+"appear."
+msgstr ""
+"Définissez le calendrier d'affichage pour chaque jour et chaque heure "
+"auxquels vous souhaitez que votre contenu apparaisse."
+
+#: includes/ee-plugin-instructions.php:9
+msgid "Select the proper time zone."
+msgstr "Sélectionnez le fuseau horaire approprié."
+
+#: includes/ee-plugin-instructions.php:10
+msgid "Choose to Show or Hide the content during the selected time periods."
+msgstr ""
+"Choisissez d'afficher ou de masquer le contenu pendant les périodes "
+"sélectionnées."
+
+#: includes/ee-plugin-instructions.php:11
+msgid "Optionally show a message when the main content is not displayed."
+msgstr ""
+"Il est possible d'afficher un message lorsque le contenu principal n'est pas "
+"affiché."
+
+#: includes/ee-plugin-instructions.php:12
+msgid ""
+"The content inside the shortcodes can be anything, from a simple message, to "
+"a whole Page, Post or Text Widget."
+msgstr ""
+"Le contenu des shortcodes peut être n'importe quoi, d'un simple message à "
+"une page entière, un article ou un widget de texte."
+
+#: includes/ee-plugin-instructions.php:13
+msgid ""
+"Use the shortcodes on a Page, Post in a Text Widget or in a theme file with"
+msgstr ""
+"Utilisez les shortcodes sur une page, un article dans un widget texte ou "
+"dans un fichier de thème à l'aide de la fonction"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "If you need help,"
+msgstr "Si vous avez besoin d'aide,"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "contact me"
+msgstr "Contactez-moi"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "please contact me."
+msgstr "veuillez me contacter."
+
+#: simple-certain-time-to-show-content.php:289
+#: simple-certain-time-to-show-content.php:296
+msgid "Timer Options"
+msgstr "Options de la minuterie"
+
+#: simple-certain-time-to-show-content.php:290
+#: simple-certain-time-to-show-content.php:361
+msgid "Instructions"
+msgstr "Instructions"
+
+#: simple-certain-time-to-show-content.php:291
+msgid "Author"
+msgstr "Auteur"
+
+#: simple-certain-time-to-show-content.php:302
+msgid "On These Days"
+msgstr "Ces jours-ci"
+
+#: simple-certain-time-to-show-content.php:317
+msgid "Select the days when the content should be displayed"
+msgstr "Sélectionnez les jours où le contenu doit être affiché"
+
+#: simple-certain-time-to-show-content.php:320
+msgid "From"
+msgstr "De"
+
+#: simple-certain-time-to-show-content.php:322
+msgid "To"
+msgstr "À"
+
+#: simple-certain-time-to-show-content.php:326
+msgid "Enter the time range in the format of hours and minutes (e.g., 2:30 pm)"
+msgstr ""
+"Saisissez la plage horaire au format heures et minutes (par exemple, 14h30)"
+
+#: simple-certain-time-to-show-content.php:329
+msgid "Time Zone"
+msgstr "Fuseau Horaire"
+
+#: simple-certain-time-to-show-content.php:334
+msgid "Select the timezone for the displayed time range."
+msgstr "Sélectionnez le fuseau horaire pour la plage horaire affichée."
+
+#: simple-certain-time-to-show-content.php:339
+msgid "Mode"
+msgstr "Mode"
+
+#: simple-certain-time-to-show-content.php:341
+msgid "Show"
+msgstr "Afficher"
+
+#: simple-certain-time-to-show-content.php:342
+msgid "Hide"
+msgstr "Masquer"
+
+#: simple-certain-time-to-show-content.php:346
+msgid "Select whether to show or hide the content."
+msgstr "Choisissez d'afficher ou de masquer le contenu."
+
+#: simple-certain-time-to-show-content.php:351
+msgid "Alternate Content (Optional)"
+msgstr "Contenu alternatif (facultatif)"
+
+#: simple-certain-time-to-show-content.php:355
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: simple-certain-time-to-show-content.php:356
+msgid "Submit to save the settings."
+msgstr "Soumettre pour enregistrer les paramètres."
+
+#: simple-certain-time-to-show-content.php:366
+msgid "Author Credits"
+msgstr "Crédits de l'auteur"

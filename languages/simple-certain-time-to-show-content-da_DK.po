@@ -1,0 +1,198 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-certain-time-to-show-content.php\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-10-21 14:21-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Me <mitch@elementengage.com.com>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ee-plugin-credits.php:18
+msgid "Plugin Author"
+msgstr "Plugin-forfatter"
+
+#: includes/ee-plugin-credits.php:19
+msgid "Plugin by"
+msgstr "Plugin af"
+
+#: includes/ee-plugin-credits.php:19
+msgid "at"
+msgstr "på"
+
+#: includes/ee-plugin-credits.php:20
+msgid "in"
+msgstr "i"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Contact Me"
+msgstr "Kontakt mig"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Feedback or Questions"
+msgstr "Feedback eller spørgsmål"
+
+#: includes/ee-plugin-credits.php:23
+msgid "Please rate this plugin"
+msgstr "Bedøm venligst dette plugin"
+
+#: includes/ee-plugin-credits.php:23
+msgid "here"
+msgstr "her"
+
+#: includes/ee-plugin-credits.php:27
+msgid "Contributors"
+msgstr "Bidragsydere"
+
+#: includes/ee-plugin-credits.php:33
+msgid "Thanks to"
+msgstr "Tak til"
+
+#: includes/ee-plugin-instructions.php:6
+msgid ""
+"At a time of your choosing show or hide anything enclosed within these "
+"shortcode tags"
+msgstr ""
+"Vis eller skjul alt, der er indeholdt i disse shortcode-tags, på et "
+"tidspunkt, du selv vælger"
+
+#: includes/ee-plugin-instructions.php:7
+msgid "Your content here"
+msgstr "Dit indhold her"
+
+#: includes/ee-plugin-instructions.php:8
+msgid ""
+"Set the display schedule for each day and time you want your content to "
+"appear."
+msgstr ""
+"Indstil visningsplanen for hver dag og hvert tidspunkt, hvor dit indhold "
+"skal vises."
+
+#: includes/ee-plugin-instructions.php:9
+msgid "Select the proper time zone."
+msgstr "Vælg den rigtige tidszone."
+
+#: includes/ee-plugin-instructions.php:10
+msgid "Choose to Show or Hide the content during the selected time periods."
+msgstr "Vælg at vise eller skjule indholdet i de valgte tidsperioder."
+
+#: includes/ee-plugin-instructions.php:11
+msgid "Optionally show a message when the main content is not displayed."
+msgstr "Vis eventuelt en besked, når hovedindholdet ikke vises."
+
+#: includes/ee-plugin-instructions.php:12
+msgid ""
+"The content inside the shortcodes can be anything, from a simple message, to "
+"a whole Page, Post or Text Widget."
+msgstr ""
+"Indholdet i kortkoderne kan være hvad som helst, fra en simpel besked til en "
+"hel side, et indlæg eller en tekstwidget."
+
+#: includes/ee-plugin-instructions.php:13
+msgid ""
+"Use the shortcodes on a Page, Post in a Text Widget or in a theme file with"
+msgstr ""
+"Brug kortkoderne på en side, et indlæg i en tekstwidget eller i en temafil "
+"med"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "If you need help,"
+msgstr "Hvis du har brug for hjælp,"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "contact me"
+msgstr "Vil du høre mere? Bliv ringet op."
+
+#: includes/ee-plugin-instructions.php:14
+msgid "please contact me."
+msgstr "kontakt mig venligst."
+
+#: simple-certain-time-to-show-content.php:289
+#: simple-certain-time-to-show-content.php:296
+msgid "Timer Options"
+msgstr "Timer-indstillinger"
+
+#: simple-certain-time-to-show-content.php:290
+#: simple-certain-time-to-show-content.php:361
+msgid "Instructions"
+msgstr "Instruktioner"
+
+#: simple-certain-time-to-show-content.php:291
+msgid "Author"
+msgstr "Forfatter"
+
+#: simple-certain-time-to-show-content.php:302
+msgid "On These Days"
+msgstr "På disse dage"
+
+#: simple-certain-time-to-show-content.php:317
+msgid "Select the days when the content should be displayed"
+msgstr "Vælg de dage, hvor indholdet skal vises"
+
+#: simple-certain-time-to-show-content.php:320
+msgid "From"
+msgstr "Fra"
+
+#: simple-certain-time-to-show-content.php:322
+msgid "To"
+msgstr "Til"
+
+#: simple-certain-time-to-show-content.php:326
+msgid "Enter the time range in the format of hours and minutes (e.g., 2:30 pm)"
+msgstr "Indtast tidsintervallet i formatet timer og minutter (f.eks. 14:30)"
+
+#: simple-certain-time-to-show-content.php:329
+msgid "Time Zone"
+msgstr "Tidszone"
+
+#: simple-certain-time-to-show-content.php:334
+msgid "Select the timezone for the displayed time range."
+msgstr "Vælg tidszonen for det viste tidsinterval."
+
+#: simple-certain-time-to-show-content.php:339
+msgid "Mode"
+msgstr "Tilstand"
+
+#: simple-certain-time-to-show-content.php:341
+msgid "Show"
+msgstr "Vis"
+
+#: simple-certain-time-to-show-content.php:342
+msgid "Hide"
+msgstr "Skjul"
+
+#: simple-certain-time-to-show-content.php:346
+msgid "Select whether to show or hide the content."
+msgstr "Vælg, om du vil vise eller skjule indholdet."
+
+#: simple-certain-time-to-show-content.php:351
+msgid "Alternate Content (Optional)"
+msgstr "Alternativt indhold (valgfrit)"
+
+#: simple-certain-time-to-show-content.php:355
+msgid "Save"
+msgstr "Goym"
+
+#: simple-certain-time-to-show-content.php:356
+msgid "Submit to save the settings."
+msgstr "Send for at gemme indstillingerne."
+
+#: simple-certain-time-to-show-content.php:366
+msgid "Author Credits"
+msgstr "Forfatterens kreditering"

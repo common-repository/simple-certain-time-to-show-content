@@ -1,0 +1,204 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-certain-time-to-show-content.php\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-10-21 14:21-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Me <mitch@elementengage.com.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ee-plugin-credits.php:18
+msgid "Plugin Author"
+msgstr "Escludi l'Autore"
+
+#: includes/ee-plugin-credits.php:19
+msgid "Plugin by"
+msgstr "Plugin di"
+
+#: includes/ee-plugin-credits.php:19
+msgid "at"
+msgstr "il"
+
+#: includes/ee-plugin-credits.php:20
+msgid "in"
+msgstr "in"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Contact Me"
+msgstr "Contattami"
+
+#: includes/ee-plugin-credits.php:22
+msgid "Feedback or Questions"
+msgstr "Feedback o domande"
+
+#: includes/ee-plugin-credits.php:23
+msgid "Please rate this plugin"
+msgstr "Valuta questo plugin"
+
+#: includes/ee-plugin-credits.php:23
+msgid "here"
+msgstr "clicca qui"
+
+#: includes/ee-plugin-credits.php:27
+msgid "Contributors"
+msgstr "Collaboratori"
+
+#: includes/ee-plugin-credits.php:33
+msgid "Thanks to"
+msgstr "Grazie a"
+
+#: includes/ee-plugin-instructions.php:6
+msgid ""
+"At a time of your choosing show or hide anything enclosed within these "
+"shortcode tags"
+msgstr ""
+"In un momento a vostra scelta mostrate o nascondete tutto ciò che è "
+"racchiuso in questi tag shortcode"
+
+#: includes/ee-plugin-instructions.php:7
+msgid "Your content here"
+msgstr "Il vostro contenuto qui"
+
+#: includes/ee-plugin-instructions.php:8
+msgid ""
+"Set the display schedule for each day and time you want your content to "
+"appear."
+msgstr ""
+"Impostare il programma di visualizzazione per ogni giorno e ora in cui si "
+"desidera che i contenuti vengano visualizzati."
+
+#: includes/ee-plugin-instructions.php:9
+msgid "Select the proper time zone."
+msgstr "Selezionare il fuso orario corretto."
+
+#: includes/ee-plugin-instructions.php:10
+msgid "Choose to Show or Hide the content during the selected time periods."
+msgstr ""
+"Scegliere di mostrare o nascondere il contenuto durante le fasce orarie "
+"selezionate."
+
+#: includes/ee-plugin-instructions.php:11
+msgid "Optionally show a message when the main content is not displayed."
+msgstr ""
+"Mostra facoltativamente un messaggio quando il contenuto principale non "
+"viene visualizzato."
+
+#: includes/ee-plugin-instructions.php:12
+msgid ""
+"The content inside the shortcodes can be anything, from a simple message, to "
+"a whole Page, Post or Text Widget."
+msgstr ""
+"Il contenuto degli shortcode può essere qualsiasi cosa, da un semplice "
+"messaggio a un'intera pagina, post o widget di testo."
+
+#: includes/ee-plugin-instructions.php:13
+msgid ""
+"Use the shortcodes on a Page, Post in a Text Widget or in a theme file with"
+msgstr ""
+"Utilizzate gli shortcode in una pagina, in un post in un widget di testo o "
+"in un file del tema con"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "If you need help,"
+msgstr "Se avete bisogno di aiuto,"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "contact me"
+msgstr "Contattami"
+
+#: includes/ee-plugin-instructions.php:14
+msgid "please contact me."
+msgstr "contattatemi."
+
+#: simple-certain-time-to-show-content.php:289
+#: simple-certain-time-to-show-content.php:296
+msgid "Timer Options"
+msgstr "Opzioni del timer"
+
+#: simple-certain-time-to-show-content.php:290
+#: simple-certain-time-to-show-content.php:361
+msgid "Instructions"
+msgstr "Istruzioni"
+
+#: simple-certain-time-to-show-content.php:291
+msgid "Author"
+msgstr "Autore"
+
+#: simple-certain-time-to-show-content.php:302
+msgid "On These Days"
+msgstr "In questi giorni"
+
+#: simple-certain-time-to-show-content.php:317
+msgid "Select the days when the content should be displayed"
+msgstr "Selezionare i giorni in cui il contenuto deve essere visualizzato"
+
+#: simple-certain-time-to-show-content.php:320
+msgid "From"
+msgstr "Da"
+
+#: simple-certain-time-to-show-content.php:322
+msgid "To"
+msgstr "A"
+
+#: simple-certain-time-to-show-content.php:326
+msgid "Enter the time range in the format of hours and minutes (e.g., 2:30 pm)"
+msgstr ""
+"Immettere l'intervallo di tempo nel formato di ore e minuti (ad esempio, "
+"14:30)"
+
+#: simple-certain-time-to-show-content.php:329
+msgid "Time Zone"
+msgstr "Fuso Orario"
+
+#: simple-certain-time-to-show-content.php:334
+msgid "Select the timezone for the displayed time range."
+msgstr "Selezionare il fuso orario per l'intervallo visualizzato."
+
+#: simple-certain-time-to-show-content.php:339
+msgid "Mode"
+msgstr "Modalità"
+
+#: simple-certain-time-to-show-content.php:341
+msgid "Show"
+msgstr "Mostra"
+
+#: simple-certain-time-to-show-content.php:342
+msgid "Hide"
+msgstr "Nascondi"
+
+#: simple-certain-time-to-show-content.php:346
+msgid "Select whether to show or hide the content."
+msgstr "Selezionare se mostrare o nascondere il contenuto."
+
+#: simple-certain-time-to-show-content.php:351
+msgid "Alternate Content (Optional)"
+msgstr "Contenuto alternativo (opzionale)"
+
+#: simple-certain-time-to-show-content.php:355
+msgid "Save"
+msgstr "Salva"
+
+#: simple-certain-time-to-show-content.php:356
+msgid "Submit to save the settings."
+msgstr "Invia per salvare le impostazioni."
+
+#: simple-certain-time-to-show-content.php:366
+msgid "Author Credits"
+msgstr "Crediti d'autore"

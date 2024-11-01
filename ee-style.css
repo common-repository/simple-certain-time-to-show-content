@@ -1,0 +1,137 @@
+/* - - CSS by Mitchell Bennis - mitch@elementengage.com - - */
+
+#eeSCTSC_AdminDisplay {
+	padding: 10px;
+}
+
+#eeSCTSC_AdminDisplay article,
+#eeSCTSC_AdminDisplay fieldset {
+	clear: both;
+	border: 2px solid #DDD;
+	padding: 1em;
+	margin: 1em;
+	background-color: inherit;
+}
+#eeSCTSC_AdminDisplay h4,
+#eeSCTSC_AdminDisplay h5,
+#eeSCTSC_AdminDisplay h6 {
+	clear: both;
+	font-size: 120%;
+	margin-top: .75em;
+	margin-bottom: .5em;
+}
+
+#eeSCTSC_AdminDisplay label {
+	float: left;
+	clear: left;
+	width: 29%;
+	text-align: right;
+	margin-right: 1%;
+	padding: 5px;
+	margin-bottom: 1em;
+	background: #DDD;
+}
+#eeSCTSC_AdminDisplay span.eeRightLabel {
+	float: left;
+	width: 29%;
+	text-align: left;
+	margin-left: 1%;
+	padding: 5px;
+	margin: 3px;
+	background: #DDD;
+}
+
+#eeSCTSC_AdminDisplay label.eeSCTSC_Days {
+	width: 11.5%;
+	float: left;
+	clear: none;
+	margin-right: 1%;
+	text-align: center;
+}
+#eeSCTSC_AdminDisplay label.eeSCTSC_Days input[type=checkbox] {
+	margin-left: 5px;
+}
+
+#eeSCTSC_AdminDisplay input[type=text],
+#eeSCTSC_AdminDisplay select {
+	float: left;
+	width: 65%;
+	padding: 4px;
+}
+#eeSCTSC_AdminDisplay #eeSCTSC_Mode {
+	clear: left;
+	width: 31%;
+	text-align: right;
+	padding-right: 50px;
+}
+#eeSCTSC_AdminDisplay .eeSCTSC_AltContent {
+	display: block;
+	width: 100%;
+	clear: both;
+	
+}
+#eeSCTSC_AdminDisplay input[type=submit] {
+	float: left;
+	clear: both;
+	margin-top: 30px;
+	font-size: 150%;
+}
+
+#eeSCTSC_AdminDisplay hr {
+	clear: both;
+	width: 100%;
+}
+
+
+/*
+#eeSCTSC_AdminDisplay .eePleaseDonate {
+	float: right;
+	width: 160px;
+	padding: 15px;
+	border: 2px solid #DDD;
+	background-color: #EEE;
+	min-height: 300px;
+	text-align: center;
+	margin: 20px 1%;
+}
+#eeSCTSC_AdminDisplay .eePleaseDonate h3 {
+	text-align: center;
+	font-size: 150%;
+}
+#eeSCTSC_AdminDisplay .eePleaseDonate h4 {
+	text-align: center;
+	font-size: 130%;
+}
+#eeSCTSC_AdminDisplay .eePleaseDonate p {
+	text-align: center;
+	font-size: 85%;
+	margin-bottom: 15px;
+}
+#eeSCTSC_AdminDisplay .eePayPalButton {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+*/
+
+#eeSupportForm label {
+	width: 25%;
+}
+
+
+#eeSupportForm input[type=text],
+#eeSupportForm input[type=email],
+#eeSupportForm input[type=url],
+#eeSupportForm textarea {
+	width: 70%;
+}
+
+
+
+
+.eeClearFix {
+	clear: both;
+}
+.eeNoClear {
+	clear: none;
+}
